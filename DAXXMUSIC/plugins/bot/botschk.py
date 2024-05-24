@@ -26,7 +26,7 @@ from datetime import datetime
 userbot = Userbot()
 
 
-BOT_LIST = ["IAM_DAXXBOT", "NexikoBot", "GitWizardBot", "stringseasonrobot", "LivioXBot"]
+BOT_LIST = ["RishuXmusicXbot", "RISHU_CAMERA_BOT", "KhushiXchatbot", "VIP_MUSIC_VC_BOT", "SP0tifyXbot"]
 
 @app.on_message(filters.command("botschk") & filters.user(OWNER_ID))
 async def bots_chk(_, message):
