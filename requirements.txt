@@ -40,9 +40,9 @@ spotipy
 tgcrypto
 telegraph
 unidecode
-git+https://github.com/yt-dlp/yt-dlp
-git+https://github.com/alexmercerind/youtube-search-python@main
-git+https://github.com/joetats/youtube_search@master
+yt-dlp==2024.3.10
+youtube-search
+youtube-search-python
 gtts
 git+https://github.com/AsmSafone/SafoneAPI
 lexica-api==1.5.1
